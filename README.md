@@ -3,7 +3,7 @@ I'm a Frontend developer with my ♥ in [React](https://reactjs.org). I'm a Type
 
 <br/>
 
-<a href="https://twitter.gonzalopozzo.com](https://twitter.com/snowflakefede1">
+<a href="https://twitter.com/snowflakefede1">
 <img align="left" alt="Gonzalo Pozzo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://linkedin.fedesantana.com">
