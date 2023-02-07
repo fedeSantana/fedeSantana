@@ -32,4 +32,4 @@ I'm a Frontend developer with my ♥ in [React](https://reactjs.org). I'm a Type
 
 ---
 
-![Fede's github stats](https://github-readme-stats.vercel.app/api?username=fedeSantana&show_icons=true&hide_border=true)
+![Fede's github stats](https://github-readme-stats.vercel.app/api?username=fedeSantana&show_icons=true&hide_border=true&theme=dracula)
